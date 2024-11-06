@@ -8,4 +8,4 @@ The aim of **Work-Package 5** (WP5) is twofold:
 
 1. To develop a formal model or set of models to simulate and compare alternative circular economy practices, policies, and transition scenarios.
 
-This is the **official repository** for the input-output stock-flow consistent models developed in WP5.
+This is the **official repository** for the input-output stock-flow consistent models developed in WP5. Main contributors are Josè Bruno Ramos Torres Fevereiro, Andrea Genovese, Oriol Valles Codina, and [Marco Veronese Passarella](https://github.com/marcoverpas). 
