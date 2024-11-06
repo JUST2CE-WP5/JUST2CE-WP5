@@ -2,7 +2,7 @@
 
 :sunrise: The project has identified enablers and barriers to Circular Economy in a number of key strategic sectors – selected among those indicated by the EU Action Plan for Circular Economy – such as food production and waste, water management, critical raw materials and production in complex global supply chains. The results of this analysis have been used to develop a decision support system and macroeconomics analytical tools to design new or improve existing Circular Economy practices. ​
 
-:bulb: The aim of **Work-Package 5** (WP5) is twofold:
+The aim of **Work-Package 5** (WP5) is twofold:
 
 1. To provide a systematic review of the current literature on macroeconomic models for assessing the transition toward a circular economy.
 
