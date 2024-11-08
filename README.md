@@ -9,3 +9,5 @@ The aim of **Work-Package 5** (WP5) is twofold:
 1. To develop a formal model or set of models to simulate and compare alternative circular economy practices, policies, and transition scenarios.
 
 :bar_chart: This is the **official repository** for the (multi-area) input-output stock-flow consistent ecological models that have been developed in WP5. Main contributors are [Josè Bruno Ramos Torres Fevereiro](https://github.com/JoseFevereiro), [Andrea Genovese](https://www.sheffield.ac.uk/management/people/academic-staff/andrea-genovese), [Oriol Valles Codina](https://github.com/parvulesco), and [Marco Veronese Passarella](https://github.com/marcoverpas). 
+
+*Note: The JUST2CE project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101003491.*
